@@ -123,7 +123,7 @@ const LoginScreen = ({ navigation }) => {
 
   return (
     <MotiView
-      style={{ flex: 1, backgroundColor: "#fffd00" }}
+      style={{ flex: 1, backgroundColor: "#FFC20C" }}
       from={{
         opacity: 0,
       }}
@@ -254,7 +254,7 @@ const LoginScreen = ({ navigation }) => {
                   style={{
                     textAlign: "center",
                     fontSize: 16,
-                    backgroundColor: "#fffd00",
+                    backgroundColor: "#FFC20C",
                     paddingVertical: 12,
                     borderRadius: 50,
                   }}
@@ -371,7 +371,7 @@ const LoginScreen = ({ navigation }) => {
                   style={{
                     textAlign: "center",
                     fontSize: 16,
-                    backgroundColor: "#fffd00",
+                    backgroundColor: "#FFC20C",
                     paddingVertical: 12,
                     borderRadius: 50,
                   }}

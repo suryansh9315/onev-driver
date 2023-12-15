@@ -279,7 +279,7 @@ const OnboardingScreen = ({ navigation }) => {
               style={{
                 textAlign: "center",
                 fontSize: 16,
-                backgroundColor: "#fffd00",
+                backgroundColor: "#FFC20C",
                 paddingVertical: 12,
                 borderRadius: 50,
               }}
